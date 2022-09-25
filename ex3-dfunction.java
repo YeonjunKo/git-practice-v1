@@ -6,6 +6,7 @@ public class Main {
         System.out.println("1st commit practice");
 
         System.out.println("2nd commit practice");
-        
+
+        System.out.println("Modified ex3 on main branch");
     }
 }
