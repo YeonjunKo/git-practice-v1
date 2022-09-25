@@ -7,6 +7,8 @@ public class Main {
         System.out.println("1st commit practice");
 
         System.out.println("2nd commit practice");
+        
+        System.out.println("Added this line from GitHub website for the 1st time");
 
     }
 }
