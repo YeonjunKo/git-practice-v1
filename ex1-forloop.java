@@ -9,6 +9,8 @@ public class Main {
         System.out.println("2nd commit");
 
         System.out.println("Commit made from techdev branch");
+
+        System.out.println("Second change from techdev branch");
         
     }
 }
