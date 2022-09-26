@@ -11,6 +11,8 @@ public class Main {
         System.out.println("Commit made from techdev branch");
 
         System.out.println("Second change from techdev branch");
+
+        System.out.println("Change from main branch");
         
     }
 }
