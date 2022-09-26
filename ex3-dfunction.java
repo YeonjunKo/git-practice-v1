@@ -8,5 +8,7 @@ public class Main {
         System.out.println("2nd commit practice");
 
         System.out.println("Modified ex3 on main branch");
+
+        System.out.println("Modification made on techdev branch first time");
     }
 }
