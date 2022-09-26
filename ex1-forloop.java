@@ -7,6 +7,8 @@ public class Main {
         System.out.println("1st commit");
 
         System.out.println("2nd commit");
+
+        System.out.println("Commit made from techdev branch");
         
     }
 }
